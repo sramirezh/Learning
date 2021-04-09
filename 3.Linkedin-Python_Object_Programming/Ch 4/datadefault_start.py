@@ -11,3 +11,5 @@ class Book:
     author: str
     pages: int
     price: float
+
+
