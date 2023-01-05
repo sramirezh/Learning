@@ -1,6 +1,7 @@
 #ignore everything
 *
 *.gsd
+token.txt
 # But not these files...
 !*.pdf
 !*.qsub
